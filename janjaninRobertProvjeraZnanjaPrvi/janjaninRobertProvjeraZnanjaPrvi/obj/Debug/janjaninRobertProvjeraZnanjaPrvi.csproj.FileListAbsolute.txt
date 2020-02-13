@@ -1,0 +1,7 @@
+C:\Users\Učenik 5\source\repos\janjaninRobertProvjeraZnanjaPrvi\janjaninRobertProvjeraZnanjaPrvi\bin\Debug\janjaninRobertProvjeraZnanjaPrvi.exe.config
+C:\Users\Učenik 5\source\repos\janjaninRobertProvjeraZnanjaPrvi\janjaninRobertProvjeraZnanjaPrvi\bin\Debug\janjaninRobertProvjeraZnanjaPrvi.exe
+C:\Users\Učenik 5\source\repos\janjaninRobertProvjeraZnanjaPrvi\janjaninRobertProvjeraZnanjaPrvi\bin\Debug\janjaninRobertProvjeraZnanjaPrvi.pdb
+C:\Users\Učenik 5\source\repos\janjaninRobertProvjeraZnanjaPrvi\janjaninRobertProvjeraZnanjaPrvi\obj\Debug\janjaninRobertProvjeraZnanjaPrvi.csprojAssemblyReference.cache
+C:\Users\Učenik 5\source\repos\janjaninRobertProvjeraZnanjaPrvi\janjaninRobertProvjeraZnanjaPrvi\obj\Debug\janjaninRobertProvjeraZnanjaPrvi.csproj.CoreCompileInputs.cache
+C:\Users\Učenik 5\source\repos\janjaninRobertProvjeraZnanjaPrvi\janjaninRobertProvjeraZnanjaPrvi\obj\Debug\janjaninRobertProvjeraZnanjaPrvi.exe
+C:\Users\Učenik 5\source\repos\janjaninRobertProvjeraZnanjaPrvi\janjaninRobertProvjeraZnanjaPrvi\obj\Debug\janjaninRobertProvjeraZnanjaPrvi.pdb
